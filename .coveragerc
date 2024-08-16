@@ -1,0 +1,7 @@
+[run]
+branch = True
+dynamic_context = test_function
+
+[report]
+sort = -cover
+show_missing = True

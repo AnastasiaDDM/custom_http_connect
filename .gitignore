@@ -1,0 +1,5 @@
+compose-*.yaml
+.vscode/
+venv*/
+__pycache__/
+docker-compose.yaml
